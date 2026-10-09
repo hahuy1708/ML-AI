@@ -1,7 +1,7 @@
 # ĐỀ KIỂM TRA GIỮA KỲ
 
 - **Thời gian làm bài:** 60 phút
-- **Đề số:** 02
+- **Đề số:** 04
 
 ---
 
